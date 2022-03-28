@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/for_Lucreds_without_redux/static/css/main.28c3494e.css",
+    "main.js": "/for_Lucreds_without_redux/static/js/main.12830eb1.js",
+    "static/media/symbol-defs.svg": "/for_Lucreds_without_redux/static/media/symbol-defs.c3cc4bdf1c2003589904399b4b0e9b10.svg",
+    "index.html": "/for_Lucreds_without_redux/index.html",
+    "main.28c3494e.css.map": "/for_Lucreds_without_redux/static/css/main.28c3494e.css.map",
+    "main.12830eb1.js.map": "/for_Lucreds_without_redux/static/js/main.12830eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c3494e.css",
+    "static/js/main.12830eb1.js"
+  ]
+}
